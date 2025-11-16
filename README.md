@@ -28,7 +28,7 @@ The system is built as a **prototype** meant for Data Structures & Algorithms (D
 - Income-based debt ratio checks (warns if payment > 50% of income)
 - View recent loan applications
 
-### 🛠️ **Admin Features**
+### **Admin Features**
 - Admin-privileged login
 - View all **pending** loan applications in a sortable table
 - Approve or reject loan applications
