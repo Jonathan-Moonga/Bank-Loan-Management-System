@@ -1,4 +1,4 @@
-Bank Loan Management System (Python + Tkinter)
+#Bank Loan Management System (Python + Tkinter)
 
 This project is a GUI-based **Bank Loan Management System** written in Python using **Tkinter**.  
 It simulates core banking features such as:
@@ -14,9 +14,9 @@ The system is built as a **prototype** meant for Data Structures & Algorithms (D
 
 ---
 
-# 🚀 Features Overview
+# Features Overview
 
-### 👤 **User (Client) Features**
+### **User (Client) Features**
 - Create user account (username, email, income)
 - Secure login using hashed passwords (SHA-256)
 - View available balance & monthly income
@@ -36,7 +36,7 @@ The system is built as a **prototype** meant for Data Structures & Algorithms (D
   - User balance is credited with loan amount
   - Loan status updated in `loan_records.csv`
 
-### 💾 **Persistent Storage**
+###  **Persistent Storage**
 Data is stored in local `.csv` files:
 
 | File | Purpose |
@@ -48,7 +48,7 @@ Files are automatically created if missing.
 
 ---
 
-# 🧠 Data Structures Used in This Project
+#  Data Structures Used in This Project
 
 This system uses Python’s built-in data structures to implement efficient lookups, updates, and workflow logic.
 
