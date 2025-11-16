@@ -1,4 +1,4 @@
-#Bank Loan Management System (Python + Tkinter)
+# Bank Loan Management System (Python + Tkinter)
 
 This project is a GUI-based **Bank Loan Management System** written in Python using **Tkinter**.  
 It simulates core banking features such as:
